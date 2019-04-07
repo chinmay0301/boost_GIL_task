@@ -7,5 +7,7 @@
 
 
 Run the generated executable as follows -:
-> ./out
+> ./out     
+
+The repository shows two images `grayscale.jpg`, which is the input image and `convolved.jpg` which is the output image obtained by convolving the inpu with a sobel filter, which is used for edge detection. 
 
